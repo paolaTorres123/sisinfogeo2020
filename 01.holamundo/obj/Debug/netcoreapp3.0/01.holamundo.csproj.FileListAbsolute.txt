@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\bin\Debug\netcoreapp3.0\01.holamundo.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\bin\Debug\netcoreapp3.0\01.holamundo.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\bin\Debug\netcoreapp3.0\01.holamundo.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\bin\Debug\netcoreapp3.0\01.holamundo.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\bin\Debug\netcoreapp3.0\01.holamundo.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\bin\Debug\netcoreapp3.0\01.holamundo.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\obj\Debug\netcoreapp3.0\01.holamundo.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\obj\Debug\netcoreapp3.0\01.holamundo.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\obj\Debug\netcoreapp3.0\01.holamundo.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\obj\Debug\netcoreapp3.0\01.holamundo.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\01.holamundo\obj\Debug\netcoreapp3.0\01.holamundo.pdb
