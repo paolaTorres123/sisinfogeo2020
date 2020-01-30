@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\obj\Debug\netcoreapp3.0\02.areaCirculo.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\obj\Debug\netcoreapp3.0\02.areaCirculo.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\obj\Debug\netcoreapp3.0\02.areaCirculo.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\bin\Debug\netcoreapp3.0\02.areaCirculo.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\bin\Debug\netcoreapp3.0\02.areaCirculo.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\bin\Debug\netcoreapp3.0\02.areaCirculo.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\bin\Debug\netcoreapp3.0\02.areaCirculo.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\bin\Debug\netcoreapp3.0\02.areaCirculo.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\bin\Debug\netcoreapp3.0\02.areaCirculo.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\obj\Debug\netcoreapp3.0\02.areaCirculo.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\02.areaCirculo\obj\Debug\netcoreapp3.0\02.areaCirculo.pdb
