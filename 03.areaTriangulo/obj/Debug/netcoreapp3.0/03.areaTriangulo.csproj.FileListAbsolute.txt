@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\obj\Debug\netcoreapp3.0\03.areaTriangulo.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\obj\Debug\netcoreapp3.0\03.areaTriangulo.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\obj\Debug\netcoreapp3.0\03.areaTriangulo.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\bin\Debug\netcoreapp3.0\03.areaTriangulo.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\bin\Debug\netcoreapp3.0\03.areaTriangulo.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\bin\Debug\netcoreapp3.0\03.areaTriangulo.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\bin\Debug\netcoreapp3.0\03.areaTriangulo.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\bin\Debug\netcoreapp3.0\03.areaTriangulo.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\bin\Debug\netcoreapp3.0\03.areaTriangulo.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\obj\Debug\netcoreapp3.0\03.areaTriangulo.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\03.areaTriangulo\obj\Debug\netcoreapp3.0\03.areaTriangulo.pdb
