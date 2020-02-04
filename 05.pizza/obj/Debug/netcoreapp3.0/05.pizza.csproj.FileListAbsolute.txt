@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\obj\Debug\netcoreapp3.0\05.pizza.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\obj\Debug\netcoreapp3.0\05.pizza.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\obj\Debug\netcoreapp3.0\05.pizza.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\bin\Debug\netcoreapp3.0\05.pizza.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\bin\Debug\netcoreapp3.0\05.pizza.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\bin\Debug\netcoreapp3.0\05.pizza.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\bin\Debug\netcoreapp3.0\05.pizza.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\bin\Debug\netcoreapp3.0\05.pizza.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\bin\Debug\netcoreapp3.0\05.pizza.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\obj\Debug\netcoreapp3.0\05.pizza.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\05.pizza\obj\Debug\netcoreapp3.0\05.pizza.pdb
