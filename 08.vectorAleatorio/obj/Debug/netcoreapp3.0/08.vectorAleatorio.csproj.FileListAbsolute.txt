@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\bin\Debug\netcoreapp3.0\08.vectorAleatorio.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\bin\Debug\netcoreapp3.0\08.vectorAleatorio.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\bin\Debug\netcoreapp3.0\08.vectorAleatorio.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\bin\Debug\netcoreapp3.0\08.vectorAleatorio.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\bin\Debug\netcoreapp3.0\08.vectorAleatorio.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\bin\Debug\netcoreapp3.0\08.vectorAleatorio.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\obj\Debug\netcoreapp3.0\08.vectorAleatorio.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\obj\Debug\netcoreapp3.0\08.vectorAleatorio.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\obj\Debug\netcoreapp3.0\08.vectorAleatorio.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\obj\Debug\netcoreapp3.0\08.vectorAleatorio.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\08.vectorAleatorio\obj\Debug\netcoreapp3.0\08.vectorAleatorio.pdb

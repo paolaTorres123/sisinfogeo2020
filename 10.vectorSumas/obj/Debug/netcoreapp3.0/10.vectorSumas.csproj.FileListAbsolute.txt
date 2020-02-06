@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\obj\Debug\netcoreapp3.0\10.vectorSumas.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\obj\Debug\netcoreapp3.0\10.vectorSumas.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\obj\Debug\netcoreapp3.0\10.vectorSumas.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\bin\Debug\netcoreapp3.0\10.vectorSumas.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\bin\Debug\netcoreapp3.0\10.vectorSumas.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\bin\Debug\netcoreapp3.0\10.vectorSumas.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\bin\Debug\netcoreapp3.0\10.vectorSumas.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\bin\Debug\netcoreapp3.0\10.vectorSumas.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\bin\Debug\netcoreapp3.0\10.vectorSumas.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\obj\Debug\netcoreapp3.0\10.vectorSumas.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\10.vectorSumas\obj\Debug\netcoreapp3.0\10.vectorSumas.pdb

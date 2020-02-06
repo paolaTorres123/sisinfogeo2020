@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\obj\Debug\netcoreapp3.0\06.tablas.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\obj\Debug\netcoreapp3.0\06.tablas.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\obj\Debug\netcoreapp3.0\06.tablas.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\bin\Debug\netcoreapp3.0\06.tablas.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\bin\Debug\netcoreapp3.0\06.tablas.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\bin\Debug\netcoreapp3.0\06.tablas.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\bin\Debug\netcoreapp3.0\06.tablas.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\bin\Debug\netcoreapp3.0\06.tablas.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\bin\Debug\netcoreapp3.0\06.tablas.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\obj\Debug\netcoreapp3.0\06.tablas.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\06.tablas\obj\Debug\netcoreapp3.0\06.tablas.pdb
