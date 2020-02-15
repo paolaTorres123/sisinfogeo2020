@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\obj\Debug\netcoreapp3.0\13.VectorEstaisticas.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\obj\Debug\netcoreapp3.0\13.VectorEstaisticas.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\obj\Debug\netcoreapp3.0\13.VectorEstaisticas.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\bin\Debug\netcoreapp3.0\13.VectorEstaisticas.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\bin\Debug\netcoreapp3.0\13.VectorEstaisticas.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\bin\Debug\netcoreapp3.0\13.VectorEstaisticas.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\bin\Debug\netcoreapp3.0\13.VectorEstaisticas.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\bin\Debug\netcoreapp3.0\13.VectorEstaisticas.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\bin\Debug\netcoreapp3.0\13.VectorEstaisticas.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\obj\Debug\netcoreapp3.0\13.VectorEstaisticas.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\13.VectorEstaisticas\obj\Debug\netcoreapp3.0\13.VectorEstaisticas.pdb

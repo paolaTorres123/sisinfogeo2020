@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\obj\Debug\netcoreapp3.0\ej1.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\obj\Debug\netcoreapp3.0\ej1.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\obj\Debug\netcoreapp3.0\ej1.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\bin\Debug\netcoreapp3.0\ej1.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\bin\Debug\netcoreapp3.0\ej1.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\bin\Debug\netcoreapp3.0\ej1.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\bin\Debug\netcoreapp3.0\ej1.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\bin\Debug\netcoreapp3.0\ej1.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\bin\Debug\netcoreapp3.0\ej1.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\obj\Debug\netcoreapp3.0\ej1.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\ej1\obj\Debug\netcoreapp3.0\ej1.pdb

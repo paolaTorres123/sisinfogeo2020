@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\bin\Debug\netcoreapp3.0\12.VectorMultiplica.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\bin\Debug\netcoreapp3.0\12.VectorMultiplica.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\bin\Debug\netcoreapp3.0\12.VectorMultiplica.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\bin\Debug\netcoreapp3.0\12.VectorMultiplica.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\bin\Debug\netcoreapp3.0\12.VectorMultiplica.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\bin\Debug\netcoreapp3.0\12.VectorMultiplica.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\obj\Debug\netcoreapp3.0\12.VectorMultiplica.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\obj\Debug\netcoreapp3.0\12.VectorMultiplica.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\obj\Debug\netcoreapp3.0\12.VectorMultiplica.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\obj\Debug\netcoreapp3.0\12.VectorMultiplica.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\12.VectorMultiplica\obj\Debug\netcoreapp3.0\12.VectorMultiplica.pdb
