@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\bin\Debug\netcoreapp3.0\25.Interfaz1.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\bin\Debug\netcoreapp3.0\25.Interfaz1.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\bin\Debug\netcoreapp3.0\25.Interfaz1.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\bin\Debug\netcoreapp3.0\25.Interfaz1.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\bin\Debug\netcoreapp3.0\25.Interfaz1.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\bin\Debug\netcoreapp3.0\25.Interfaz1.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\obj\Debug\netcoreapp3.0\25.Interfaz1.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\obj\Debug\netcoreapp3.0\25.Interfaz1.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\obj\Debug\netcoreapp3.0\25.Interfaz1.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\obj\Debug\netcoreapp3.0\25.Interfaz1.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\25.Interfaz1\obj\Debug\netcoreapp3.0\25.Interfaz1.pdb
