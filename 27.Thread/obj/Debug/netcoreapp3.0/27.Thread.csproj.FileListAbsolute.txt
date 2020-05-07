@@ -1,0 +1,3 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\27.Thread\obj\Debug\netcoreapp3.0\27.Thread.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\27.Thread\obj\Debug\netcoreapp3.0\27.Thread.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\27.Thread\obj\Debug\netcoreapp3.0\27.Thread.AssemblyInfo.cs

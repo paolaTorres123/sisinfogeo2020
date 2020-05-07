@@ -1,0 +1,5 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p30.Threading4\obj\Debug\netcoreapp3.0\p30.Threading4.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p30.Threading4\obj\Debug\netcoreapp3.0\p30.Threading4.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p30.Threading4\obj\Debug\netcoreapp3.0\p30.Threading4.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p30.Threading4\obj\Debug\netcoreapp3.0\p30.Threading4.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p30.Threading4\obj\Debug\netcoreapp3.0\p30.Threading4.pdb
