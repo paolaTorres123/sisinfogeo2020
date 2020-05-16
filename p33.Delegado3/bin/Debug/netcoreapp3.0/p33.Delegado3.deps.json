@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "p33.Delegado3/1.0.0": {
+        "runtime": {
+          "p33.Delegado3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "p33.Delegado3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

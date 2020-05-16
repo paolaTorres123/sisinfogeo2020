@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\obj\Debug\netcoreapp3.0\p35.Delegado5.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\obj\Debug\netcoreapp3.0\p35.Delegado5.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\obj\Debug\netcoreapp3.0\p35.Delegado5.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\bin\Debug\netcoreapp3.0\p35.Delegado5.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\bin\Debug\netcoreapp3.0\p35.Delegado5.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\bin\Debug\netcoreapp3.0\p35.Delegado5.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\bin\Debug\netcoreapp3.0\p35.Delegado5.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\bin\Debug\netcoreapp3.0\p35.Delegado5.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\bin\Debug\netcoreapp3.0\p35.Delegado5.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\obj\Debug\netcoreapp3.0\p35.Delegado5.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p35.Delegado5\obj\Debug\netcoreapp3.0\p35.Delegado5.pdb
