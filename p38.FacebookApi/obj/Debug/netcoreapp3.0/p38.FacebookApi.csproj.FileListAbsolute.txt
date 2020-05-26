@@ -1,0 +1,13 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\bin\Debug\netcoreapp3.0\p38.FacebookApi.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\bin\Debug\netcoreapp3.0\p38.FacebookApi.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\bin\Debug\netcoreapp3.0\p38.FacebookApi.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\bin\Debug\netcoreapp3.0\p38.FacebookApi.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\bin\Debug\netcoreapp3.0\p38.FacebookApi.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\bin\Debug\netcoreapp3.0\p38.FacebookApi.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\obj\Debug\netcoreapp3.0\p38.FacebookApi.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\obj\Debug\netcoreapp3.0\p38.FacebookApi.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\obj\Debug\netcoreapp3.0\p38.FacebookApi.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\obj\Debug\netcoreapp3.0\p38.FacebookApi.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\obj\Debug\netcoreapp3.0\p38.FacebookApi.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\p38.FacebookApi\obj\Debug\netcoreapp3.0\p38.FacebookApi.csproj.CopyComplete
