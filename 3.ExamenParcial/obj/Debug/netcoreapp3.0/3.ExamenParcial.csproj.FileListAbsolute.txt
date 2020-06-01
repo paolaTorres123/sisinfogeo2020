@@ -1,0 +1,11 @@
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\obj\Debug\netcoreapp3.0\3.ExamenParcial.csprojAssemblyReference.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\obj\Debug\netcoreapp3.0\3.ExamenParcial.AssemblyInfoInputs.cache
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\obj\Debug\netcoreapp3.0\3.ExamenParcial.AssemblyInfo.cs
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\bin\Debug\netcoreapp3.0\3.ExamenParcial.exe
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\bin\Debug\netcoreapp3.0\3.ExamenParcial.deps.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\bin\Debug\netcoreapp3.0\3.ExamenParcial.runtimeconfig.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\bin\Debug\netcoreapp3.0\3.ExamenParcial.runtimeconfig.dev.json
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\bin\Debug\netcoreapp3.0\3.ExamenParcial.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\bin\Debug\netcoreapp3.0\3.ExamenParcial.pdb
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\obj\Debug\netcoreapp3.0\3.ExamenParcial.dll
+C:\Users\poli\Documents\8VO Semestre\sistemasInfoGeo\sisinfogeo2020\3.ExamenParcial\obj\Debug\netcoreapp3.0\3.ExamenParcial.pdb
